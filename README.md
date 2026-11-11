@@ -7,7 +7,7 @@
 <br>
 
 ![Python](https://img.shields.io/badge/Python-pandas-3776AB?logo=python&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-T--SQL-CC2927?logo=microsoftsqlserver)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-SQL-CC2927?logo=microsoftsqlserver)
 ![Excel](https://img.shields.io/badge/Excel-Data%20Preparation-217346?logo=microsoftexcel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-Interactive%20Dashboard-F2C811?logo=powerbi&logoColor=black)
 
@@ -127,7 +127,7 @@ flowchart LR
 |---|---|
 | Data preparation | Excel, pandas, data cleaning, duplicate checks |
 | Analysis | Python, pandas, metric calculations |
-| Querying | SQL Server, T-SQL, `GROUP BY`, `JOIN`, `CASE`, temporary tables, date functions |
+| Querying | SQL Server, SQL queries, GROUP BY, JOIN, CASE, temporary tables, date functions  |
 | Business metrics | CTR, CPC, cost per signup, cost per paying customer, conversion rate, ROAS |
 | Visualization | Power BI, KPI cards, trend charts, channel comparisons |
 | Communication | Analytical reporting, insight development, budget recommendations |
